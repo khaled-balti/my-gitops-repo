@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: khaled122/my-gitops-frontend:latest
+        image: nasi101/tetris
         ports:
         - containerPort: 80
         resources:
